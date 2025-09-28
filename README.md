@@ -1,5 +1,4 @@
-# logistic-regression-task
-# 🤖 AI & ML INTERNSHIP - Task 4: Classification with Logistic Regression
+**Classification with Logistic Regression**
 
 ## 🎯 Objective
 The goal of this task was to **build and evaluate a binary classification model** using the **Logistic Regression** algorithm, leveraging Python libraries like Scikit-learn, Pandas, and Matplotlib.
